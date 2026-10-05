@@ -502,6 +502,16 @@ Potential improvements include:
 - Advanced social-media analytics
 
 ---
+## 📸 Screenshots
+
+### 🤖 AI Composer
+
+![AI Composer](screenshots/ai-composer.png)
+
+### 📅 Scheduler
+
+![Post Scheduler](screenshots/scheduler.png)
+
 
 ## 👨‍💻 Author
 
