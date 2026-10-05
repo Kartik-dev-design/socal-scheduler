@@ -347,29 +347,13 @@ The project already ignores `.env` and `node_modules` through `.gitignore`.
 ---
 
 ## 📸 Screenshots
-
-### 🏠 Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
 ### 🤖 AI Composer
 
 ![AI Composer](screenshots/ai-composer.png)
 
-### 🔗 Connected Accounts
-
-![Accounts](screenshots/accounts.png)
-
 ### 📅 Scheduler
 
 ![Scheduler](screenshots/scheduler.png)
-
-### 📝 Generated Content & AI Image
-
-![AI Generation](screenshots/ai-generation.png)
-
-> Add your screenshots to a `screenshots/` folder in the project root using the filenames above.
-
 ---
 
 ## 📡 API Structure
@@ -518,13 +502,6 @@ Potential improvements include:
 - Advanced social-media analytics
 
 ---
-### 🤖 AI Composer
-
-![AI Composer](screenshots/ai-composer.png)
-
-### 📅 Post Scheduler
-
-![Post Scheduler](screenshots/scheduler.png)
 
 ## 👨‍💻 Author
 
